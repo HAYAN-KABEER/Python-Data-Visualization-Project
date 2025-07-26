@@ -8,7 +8,7 @@ It includes a step-by-step video tutorial showcasing how to use **Matplotlib** a
 
 ---
 
-## 📽️ Video Tutorial Covers:
+## Tutorial Covers:
 
 - Setting up Python and Jupyter Notebook
 - Installing visualization libraries: `Matplotlib`, `Seaborn`
